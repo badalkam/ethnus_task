@@ -1,0 +1,79 @@
+table {
+    width: 100%;
+    /*
+    border-style: solid;
+    width: 72.25%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 15%;
+   
+    width: 74%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color: aquamarine;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    */
+}
+
+tr {
+    height: 30px;
+}
+
+th {
+    text-align: center;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 10px;
+
+}
+
+.task2_td {
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#task2{
+    background-color: aquamarine;
+    border-style: solid;
+    width: 70%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 15%;
+    border-radius: 5px;
+    border-color: black;
+}
+#task3 {
+    border-style: solid;
+    width: 70%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+#task5 {
+    border-style: solid;
+    width: 70%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+#task7 {
+    border-style: solid;
+    width: 70%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 15%;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+#task7_form {
+    background-color: aliceblue;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
