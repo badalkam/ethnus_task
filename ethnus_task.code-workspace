@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ethnus_task",
+			"path": "ethnus_task"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
