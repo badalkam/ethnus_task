@@ -1,6 +1,6 @@
 table {
-    width: 100%;
     /*
+    width: 100%;
     border-style: solid;
     width: 72.25%;
     padding: 15px;
@@ -17,7 +17,10 @@ table {
     border-color: black;
     */
 }
-
+#table_task2{
+    width: 100%;
+    background-color: aquamarine;  
+}
 tr {
     height: 30px;
 }
@@ -36,7 +39,7 @@ th {
 }
 
 #task2{
-    background-color: aquamarine;
+    
     border-style: solid;
     width: 70%;
     padding: 15px;
